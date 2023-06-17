@@ -44,8 +44,7 @@ body{
 }
 .float-right {
     float: right;
+    padding-top: 0%;
 }
-.wrapper {
-    flex-direction: row;
-justify-content:center ;    
-}
+
+
